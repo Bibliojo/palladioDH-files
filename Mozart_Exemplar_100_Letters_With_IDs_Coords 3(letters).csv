@@ -1,0 +1,110 @@
+Source_ID,From,Date,Place-from,To,Place_to
+1,Johann Christian Bach,1772-05-20,London,Franz Xaver Mozart,Salzburg
+10,Lorenzo Da Ponte,1771-01-14,London,Franz Xaver Mozart,Salzburg
+9,Michael Puchberg,1776-12-20,Milan,Franz Xaver Mozart,Rome
+1,Johann Christian Bach,1774-05-19,Munich,Maria Anna Mozart,Milan
+12,Gottfried van Swieten,1772-09-12,Munich,Maria Anna Mozart,Prague
+12,Gottfried van Swieten,1776-01-30,Salzburg,Maria Anna Mozart,London
+15,Joseph Haydn,1777-10-07,Salzburg,Maria Anna Mozart,Vienna
+4,Leopold Mozart,1776-02-14,Paris,Maria Anna Mozart,Rome
+1,Johann Christian Bach,1775-05-14,Vienna,Leopold Mozart,London
+3,Constanze Mozart,1770-07-09,Rome,Leopold Mozart,Vienna
+5,Baron von Grimm,1779-02-28,Paris,Leopold Mozart,Prague
+7,Maria Anna Mozart,1770-07-11,London,Leopold Mozart,Salzburg
+11,Antonio Salieri,1779-03-03,London,Leopold Mozart,Salzburg
+2,Franz Xaver Mozart,1773-05-14,Paris,Leopold Mozart,Rome
+2,Franz Xaver Mozart,1773-05-20,Paris,Leopold Mozart,Rome
+1,Johann Christian Bach,1773-03-07,Vienna,Lorenzo Da Ponte,Salzburg
+1,Johann Christian Bach,1770-08-11,Verona,Lorenzo Da Ponte,Vienna
+3,Constanze Mozart,1778-02-19,London,Lorenzo Da Ponte,Paris
+5,Baron von Grimm,1771-09-30,Salzburg,Lorenzo Da Ponte,Paris
+13,Emperor Joseph II,1777-11-11,Verona,Lorenzo Da Ponte,London
+12,Gottfried van Swieten,1771-12-27,Milan,Lorenzo Da Ponte,Verona
+9,Michael Puchberg,1778-10-09,Munich,Lorenzo Da Ponte,Milan
+2,Franz Xaver Mozart,1774-05-26,Paris,Lorenzo Da Ponte,Munich
+1,Johann Christian Bach,1772-10-13,Verona,Wolfgang Amadeus Mozart,Munich
+1,Johann Christian Bach,1778-05-06,Vienna,Wolfgang Amadeus Mozart,London
+3,Constanze Mozart,1773-02-28,Salzburg,Wolfgang Amadeus Mozart,London
+5,Baron von Grimm,1779-05-23,Munich,Wolfgang Amadeus Mozart,Salzburg
+5,Baron von Grimm,1773-05-19,Salzburg,Wolfgang Amadeus Mozart,Paris
+11,Antonio Salieri,1779-04-18,Vienna,Wolfgang Amadeus Mozart,Verona
+9,Michael Puchberg,1777-10-13,Munich,Wolfgang Amadeus Mozart,Milan
+2,Franz Xaver Mozart,1774-11-19,Verona,Wolfgang Amadeus Mozart,Munich
+15,Joseph Haydn,1773-08-27,Munich,Wolfgang Amadeus Mozart,Paris
+14,Abbé Stadler,1778-07-31,London,Wolfgang Amadeus Mozart,Verona
+14,Abbé Stadler,1778-04-07,Vienna,Wolfgang Amadeus Mozart,Vienna
+1,Johann Christian Bach,1770-06-03,Rome,Joseph Haydn,Salzburg
+5,Baron von Grimm,1773-12-12,Rome,Joseph Haydn,Munich
+11,Antonio Salieri,1776-07-15,Salzburg,Joseph Haydn,Salzburg
+11,Antonio Salieri,1774-08-26,Paris,Joseph Haydn,Vienna
+9,Michael Puchberg,1771-12-27,Paris,Joseph Haydn,Munich
+4,Leopold Mozart,1774-05-01,Verona,Joseph Haydn,Verona
+6,Wolfgang Amadeus Mozart,1771-05-04,Rome,Joseph Haydn,Munich
+6,Wolfgang Amadeus Mozart,1775-06-11,Milan,Joseph Haydn,London
+14,Abbé Stadler,1777-01-30,Munich,Joseph Haydn,Vienna
+1,Johann Christian Bach,1771-12-16,Rome,Emperor Joseph II,Rome
+3,Constanze Mozart,1770-11-23,Milan,Emperor Joseph II,Rome
+12,Gottfried van Swieten,1775-08-23,Milan,Emperor Joseph II,Salzburg
+2,Franz Xaver Mozart,1773-03-10,Salzburg,Emperor Joseph II,Paris
+2,Franz Xaver Mozart,1775-11-26,Munich,Emperor Joseph II,Paris
+4,Leopold Mozart,1779-11-17,Munich,Emperor Joseph II,Verona
+3,Constanze Mozart,1775-07-31,Munich,Michael Puchberg,Rome
+10,Lorenzo Da Ponte,1777-05-05,Vienna,Michael Puchberg,Milan
+10,Lorenzo Da Ponte,1778-10-14,Verona,Michael Puchberg,Munich
+8,Maria Theresia Paradis,1773-10-11,Paris,Michael Puchberg,Rome
+13,Emperor Joseph II,1773-03-14,Paris,Michael Puchberg,Milan
+12,Gottfried van Swieten,1778-03-27,Paris,Michael Puchberg,Milan
+15,Joseph Haydn,1778-03-31,London,Michael Puchberg,Salzburg
+3,Constanze Mozart,1771-05-20,Paris,Abbé Stadler,Munich
+5,Baron von Grimm,1773-12-14,Rome,Abbé Stadler,Munich
+13,Emperor Joseph II,1778-10-25,Munich,Abbé Stadler,Munich
+12,Gottfried van Swieten,1775-10-14,Milan,Abbé Stadler,Vienna
+2,Franz Xaver Mozart,1775-06-23,Rome,Abbé Stadler,Verona
+4,Leopold Mozart,1772-06-11,Salzburg,Abbé Stadler,Paris
+5,Baron von Grimm,1777-12-30,Milan,Constanze Mozart,Paris
+10,Lorenzo Da Ponte,1778-08-24,Rome,Constanze Mozart,Paris
+8,Maria Theresia Paradis,1773-02-25,Verona,Constanze Mozart,London
+12,Gottfried van Swieten,1779-02-21,London,Constanze Mozart,Paris
+12,Gottfried van Swieten,1776-04-27,Munich,Constanze Mozart,Rome
+7,Maria Anna Mozart,1777-06-15,Vienna,Maria Theresia Paradis,Munich
+15,Joseph Haydn,1773-09-03,Verona,Maria Theresia Paradis,Milan
+15,Joseph Haydn,1774-02-09,Munich,Maria Theresia Paradis,Rome
+4,Leopold Mozart,1770-08-30,Rome,Maria Theresia Paradis,Salzburg
+6,Wolfgang Amadeus Mozart,1779-01-09,Rome,Maria Theresia Paradis,Milan
+7,Maria Anna Mozart,1776-08-02,Vienna,Baron von Grimm,Rome
+11,Antonio Salieri,1773-04-28,Munich,Baron von Grimm,Verona
+13,Emperor Joseph II,1778-04-03,Salzburg,Baron von Grimm,London
+2,Franz Xaver Mozart,1777-07-07,Rome,Baron von Grimm,Munich
+15,Joseph Haydn,1773-10-28,Salzburg,Baron von Grimm,Vienna
+15,Joseph Haydn,1775-06-14,Salzburg,Baron von Grimm,Verona
+7,Maria Anna Mozart,1772-08-19,London,Gottfried van Swieten,Munich
+11,Antonio Salieri,1774-08-06,Vienna,Gottfried van Swieten,Rome
+11,Antonio Salieri,1777-10-01,Milan,Gottfried van Swieten,Rome
+13,Emperor Joseph II,1775-02-24,Salzburg,Gottfried van Swieten,Vienna
+9,Michael Puchberg,1770-04-13,Munich,Gottfried van Swieten,Munich
+2,Franz Xaver Mozart,1774-08-10,Salzburg,Gottfried van Swieten,Salzburg
+15,Joseph Haydn,1775-11-29,Verona,Gottfried van Swieten,Rome
+15,Joseph Haydn,1778-12-25,Paris,Gottfried van Swieten,Salzburg
+6,Wolfgang Amadeus Mozart,1778-02-14,Vienna,Gottfried van Swieten,Salzburg
+14,Abbé Stadler,1778-12-12,Vienna,Gottfried van Swieten,London
+10,Lorenzo Da Ponte,1778-09-24,Milan,Antonio Salieri,Vienna
+8,Maria Theresia Paradis,1778-07-24,Vienna,Antonio Salieri,Milan
+13,Emperor Joseph II,1770-03-30,Vienna,Antonio Salieri,Salzburg
+4,Leopold Mozart,1779-02-25,Paris,Antonio Salieri,Munich
+11,Antonio Salieri,1771-07-21,Rome,Johann Christian Bach,Salzburg
+8,Maria Theresia Paradis,1777-10-09,Salzburg,Johann Christian Bach,Verona
+13,Emperor Joseph II,1774-06-09,Vienna,Johann Christian Bach,Paris
+9,Michael Puchberg,1777-12-26,Verona,Johann Christian Bach,Vienna
+2,Franz Xaver Mozart,1770-12-13,Salzburg,Johann Christian Bach,Vienna
+4,Leopold Mozart,1778-09-01,Rome,Johann Christian Bach,Milan
+4,Leopold Mozart,1772-05-29,Vienna,Johann Christian Bach,London
+14,Abbé Stadler,1777-08-05,Verona,Johann Christian Bach,Vienna
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
