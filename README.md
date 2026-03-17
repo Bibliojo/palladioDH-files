@@ -12,3 +12,4 @@ One connected dataset. The extended tables add information to the rows of the ma
 Try your hand at one of the visualization types. I have provided some data sets, but they may not necessarily for formated for the task you chaoose. You mae have to munge a bit :)
 have fun!
 
+
