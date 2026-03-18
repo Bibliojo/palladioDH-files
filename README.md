@@ -9,7 +9,7 @@ Main Table tabular data e.g., a csv file
 Extended Table(s) eg a csv file of  nodes, edges, coordinates 
    =
 One connected dataset. The extended tables add information to the rows of the main table, rather than standing alone.
-Try your hand at one of the visualization types. I have provided some data sets, but they may not necessarily for formated for the task you chaoose. You mae have to munge a bit :)
+Try your hand at one of the visualization types. I have provided some data sets, but they may not necessarily for formated for the task you choose. You maey have to munge a bit :)
 have fun!
 
 
